@@ -22,7 +22,7 @@ Full documentation on protocol implementation is [here](https://docs.cardano.org
 
 Project has huge market potential
 
-Market Cap is more than 2 billions USD for now (10th place worldwide among cryptocurrencies). Average coin price is 0.07 USD with a strong potential to grow after the release of mainnet. Liquidity of Ada is 2%, main exchanges are Hitbtc, Binance and Huobi (according to [Coin360](https://coin360.com/))
+Market Cap is more than 2 billions USD for now (10th place worldwide among cryptocurrencies). Average coin price is 0.07 USD with a strong potential to grow after the release of mainnet. Liquidity of Ada is 2%, main exchanges are Hitbtc, Binance and Huobi (according to [Coin360](https://coin360.com/coin/cardano-ada))
 
 If coin reaches 1.45 USD per coin in nearest 5 years current participants would get 17x grow of their initial USD investments (according to [Crypto Rating](https://www.crypto-rating.com/price-prediction/ada/))
 
