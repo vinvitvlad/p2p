@@ -58,7 +58,7 @@ Imagine we need 1 year to find desirable sum of investment (3.5 millions USD) an
 
 We could calculate 3-years NPV of project
 
-    NPV3 = 20000\*24 - 1000\*12 - 200\*24 - 3000\*2\*36 -1000\*36 = **211 200 USD**
+    NPV3 = 20000*24 - 1000*12 - 200*24 - 3000*2*36 -1000*36 = 211 200 USD
  
 ### Acquisition
 
