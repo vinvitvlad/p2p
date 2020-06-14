@@ -54,11 +54,11 @@ Imagine we need 10 average GCP/AWS nodes to hold our stacking pool. Each standar
 
 Imagine we need 1 devops engineer and 1 product owner full time with salary of 3000 USD monthly on that project
 
-Imagine we need 1 year to find desirable sum of investment (3.5 millions USD) and the cost of acquisition is 1000 USD per month in the 1st year and 200 USD in subsequent years to compensate 20% of churn
+Imagine we need 6 months to find desirable sum of investment (3.5 millions USD) and the cost of acquisition is 1000 USD per month in that time and 200 USD in subsequent months to compensate 20% of churn
 
 We could calculate 3-years NPV of project
 
-    NPV3 = 20000*24 - 1000*12 - 200*24 - 3000*2*36 - 1000*36 = 211 200 USD
+    NPV3 = 20000*30 - 1000*6 - 200*30 - 3000*2*36 - 1000*36 = 336 000 USD
  
 ### Acquisition
 
