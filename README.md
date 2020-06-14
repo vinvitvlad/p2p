@@ -42,7 +42,7 @@ Staking and delegating machanisms are available. Anyone with enough competence c
  
 ## Business plan
 
-**Target:** 20 000 USD monthly
+**Target:** 20 000 USD monthly revenue
 
 To earn 20 000 USD monthly on validation rewards with 50/50 share of result among pool holder and delegators (~6% annual return for each) we need to control 0.5% of whole stake pool which is about 50 millions Ada or 3.5 millions USD (according to [official calculator](https://staking.cardano.org/calculator/))
 
@@ -58,7 +58,7 @@ Imagine we need 1 year to find desirable sum of investment (3.5 millions USD) an
 
 We could calculate 3-years NPV of project
 
-  NPV3 = 20000\*24 - 1000\*12 - 200\*24 - 3000\*2\*36 -1000\*36 = **211 200 USD**
+> NPV3 = 20000\*24 - 1000\*12 - 200\*24 - 3000\*2\*36 -1000\*36 = **211 200 USD**
  
 ### Acquisition
 
