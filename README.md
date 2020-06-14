@@ -26,7 +26,7 @@ Market Cap is more than 2 billions USD for now (10th place worldwide among crypt
 
 If coin reaches 1.45 USD per coin in nearest 5 years current participants would get 17x grow of their initial USD investments (according to [Crypto Rating](https://www.crypto-rating.com/price-prediction/ada/))
 
-Running a staking pool could generate up to 12% annual return as reward (according to [Cordano official site]( https://staking.cardano.org))
+Running a staking pool could generate up to 12% annual return as reward (according to [Cardano official site]( https://staking.cardano.org))
 
 **Note:** Current reward is subject to change in future releases but it shows realistic picture of earnings stakeholders can make
  
@@ -34,7 +34,7 @@ Running a staking pool could generate up to 12% annual return as reward (accordi
 
 Currently Cardano is on the second stage of it’s roadmap called Shelley which means that process of decentralization had been started
 
-System had been deployed in the so-called Incentivized Testnet (Byron-to-Shelley transition phase) which is used for testing basic decentralization mechanisms. The mainnet phase will follow straight after at Aug 2020 approx. (according to [Cordano official forum](https://forum.cardano.org/t/the-public-testnet-is-now-open-for-business/34059))
+System had been deployed in the so-called Incentivized Testnet (Byron-to-Shelley transition phase) which is used for testing basic decentralization mechanisms. The mainnet phase will follow straight after at Aug 2020 approx. (according to [Cardano official forum](https://forum.cardano.org/t/the-public-testnet-is-now-open-for-business/34059))
 
 ![Cardano Roadmap](https://aws1.discourse-cdn.com/business4/uploads/cardano/original/3X/a/1/a1d38df2db5e68e0195137416123095679db7739.jpeg)
 
@@ -58,7 +58,7 @@ Imagine we need 1 year to find desirable sum of investment (3.5 millions USD) an
 
 We could calculate 3-years NPV of project
 
-> NPV3 = 20000\*24 - 1000\*12 - 200\*24 - 3000\*2\*36 -1000\*36 = **211 200 USD**
+    NPV3 = 20000\*24 - 1000\*12 - 200\*24 - 3000\*2\*36 -1000\*36 = **211 200 USD**
  
 ### Acquisition
 
